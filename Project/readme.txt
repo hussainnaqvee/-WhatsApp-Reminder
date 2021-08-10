@@ -1,0 +1,1 @@
+This is an automation which reads a text file from google drive and then sends message to the host via an API called callmebot WhatsApp Api (host has to be registered in order to use that API)
