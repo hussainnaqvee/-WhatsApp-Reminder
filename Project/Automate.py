@@ -9,7 +9,7 @@ def Reminders():
     Example text file can be found here: https://drive.google.com/uc?export=download&id=16H7gT0fdbbIk1N_StEH1UZ1WMdimSc9X
     Enter Url of your text file that you should preferably uploaded on gDrive with public access
     """
-    file_url='https://drive.google.com/uc?export=download&id=16H7gT0fdbbIk1N_StEH1UZ1WMdimSc9X'
+    file_url='Enter the url of your text file'
     
     todo_list=[]
     file = urllib.request.urlopen(file_url)
